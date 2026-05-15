@@ -15,3 +15,7 @@ Run the starter module:
 ```powershell
 python src\desktop_agent.py
 ```
+
+## Notes
+
+On Windows, file names are case-insensitive, so this repository uses `README.md` as the primary documentation file.
